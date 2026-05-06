@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36617.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnCDIO", "DoAnCDIO\DoAnCDIO.csproj", "{73A04389-1DA5-4617-8C50-79E1457C38B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A04389-1DA5-4617-8C50-79E1457C38B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A04389-1DA5-4617-8C50-79E1457C38B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A04389-1DA5-4617-8C50-79E1457C38B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A04389-1DA5-4617-8C50-79E1457C38B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D569B3E-E816-4923-830D-1BFC17E85F89}
+	EndGlobalSection
+EndGlobal
